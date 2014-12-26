@@ -8,9 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadfileWhileproj", "..\..\Documents\Visual Studio 2013\Projects\ReadfileWhileproj\ReadfileWhileproj\ReadfileWhileproj.csproj", "{6A814203-6EDA-43BE-AB34-22F5379A4F77}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D94E9956-637B-4759-B08B-E8F39B623D7C}"
-	ProjectSection(SolutionItems) = preProject
-		Registered Cars.txt = Registered Cars.txt
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

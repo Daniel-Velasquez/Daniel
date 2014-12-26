@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
+using Car_Registry.Classes;
+
 namespace Car_Registry
 {
     /// <summary>
@@ -31,25 +33,14 @@ namespace Car_Registry
             Car myNewCar = new Car();
 
             myNewCar.Make = Make.Text;
-            myNewCar.Make = Model.Text;
-            myNewCar.Make = Year.Text;
-            myNewCar.Make = Color.Text;
-            myNewCar.Make = Capacity.Text;
+            myNewCar.Model = Model.Text;
+            myNewCar.Year = Year.Text;
+            myNewCar.Color = Color.Text;
+            myNewCar.Capacity = Capacity.Text;
 
+            Result.Text = myNewCar.getResult();
 
-
-            Result.Text = "\n--------------------------------------------------------------------------------------" + 
-                "\n\t\tYOU REGISTERED THIS CAR" + "\n\nCar Name: " + Make.Text + "\nCar Model: " + Model.Text + "\nCar Year: " + Year.Text
-               + "\nCar Color: " + Color.Text + "\nCar Capacity: " + Capacity.Text ;
-        
-         string carRegistry = Result.Text;
-         System.IO.File.AppendAllText(@"C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Registered Cars.txt", carRegistry.Replace("\n", Environment.NewLine));
-        
-
-            
-
-
-
+            myNewCar.saveToFile();
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
@@ -58,14 +49,4 @@ namespace Car_Registry
             
         }
     }
-
-    class Car
-    {
-        public string Make { get; set; }
-        public string Model { get; set; }
-        public string Year { get; set; }
-        public string Color { get; set; }
-        public string Capacity { get; set; }
-    }
-
 }
