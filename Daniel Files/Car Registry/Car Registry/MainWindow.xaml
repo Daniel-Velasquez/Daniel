@@ -1,0 +1,14 @@
+﻿<Window x:Class="Car_Registry.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="211" Width="366">
+    <Grid Margin="0,0,2,-7">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Car Registry" HorizontalAlignment="Left" Height="55" Margin="53,52,0,0" VerticalAlignment="Top" Width="257" FontSize="36" FontFamily="Capture it"/>
+        <Button Content="Start" HorizontalAlignment="Left" Height="28" Margin="42,122,0,0" VerticalAlignment="Top" Width="268" Click="Button_Click"/>
+
+    </Grid>
+</Window>
