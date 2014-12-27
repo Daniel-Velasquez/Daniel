@@ -1,0 +1,29 @@
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\obj\Debug\MainWindow.baml
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\obj\Debug\Window1.baml
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\obj\Debug\MainWindow.g.cs
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\obj\Debug\Window1.g.cs
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\obj\Debug\App.g.cs
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\obj\Debug\Car Registry_MarkupCompile.cache
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\obj\Debug\Car Registry.g.resources
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\obj\Debug\Car_Registry.Properties.Resources.resources
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\obj\Debug\Car Registry.csproj.GenerateResource.Cache
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\bin\Debug\Car Registry.exe.config
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\bin\Debug\Car Registry.exe
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\bin\Debug\Car Registry.pdb
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\obj\Debug\Car Registry.exe
+C:\Users\Serbisyong Bayan\Desktop\Car Registry\Car Registry\obj\Debug\Car Registry.pdb
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\bin\Debug\Car Registry.exe.config
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\Car Registry.exe
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\Car Registry.pdb
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\bin\Debug\Car Registry.exe
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\bin\Debug\Car Registry.pdb
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\Car Registry.csprojResolveAssemblyReference.cache
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\MainWindow.baml
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\Window1.baml
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\MainWindow.g.cs
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\Window1.g.cs
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\App.g.cs
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\Car Registry_MarkupCompile.cache
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\Car Registry.g.resources
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\Car_Registry.Properties.Resources.resources
+C:\Users\Serbisyong Bayan\Desktop\Daniel Files\Car Registry\Car Registry\obj\Debug\Car Registry.csproj.GenerateResource.Cache
